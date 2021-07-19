@@ -37,5 +37,5 @@ a Junior Full-Stack Developer Based on Iran
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" alt="sass" height="40" width="40" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="typescript" height="40" width="40" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/coffee-script-3628110-3030930.png" alt="coffeescript" height="40" width="40" />
-<img align="center" src="https://icon-library.com/images/heroku-icon/heroku-icon-6.jpg" alt="heroku" height="40" width="40" />
+<img align="center" src="https://icon-library.com/images/heroku-icon/heroku-icon-6.jpg" alt="heroku" height="40" width="94" />
 </p>
