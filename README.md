@@ -32,10 +32,15 @@ a Junior Full-Stack Developer Based on Iran
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="45" width="70" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" alt="bash" height="40" width="40" />
 <img align="center" src="https://camo.githubusercontent.com/faa52408def7e90dd8b2c84a09a62bf675ba11152395c61dae6a131458fbbae8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e7578746a732f6e7578746a732d69636f6e2e737667" alt="nuxt" height="40" width="40" />
+<img align="center" src="https://iconape.com/wp-content/png_logo_vector/vuetify.png" alt="vuetify" height="40" width="40" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="react" height="40" width="40" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" height="40" width="40" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" alt="sass" height="40" width="40" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="typescript" height="40" width="40" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/coffee-script-3628110-3030930.png" alt="coffeescript" height="40" width="40" />
 <img align="center" src="https://icon-library.com/images/heroku-icon/heroku-icon-6.jpg" alt="heroku" height="40" width="94" />
+<img align="center" src="https://cdn.iconscout.com/icon/free/png-512/uikit-3629126-3030266.png" alt="uikit" height="40" width="40" />
+<img align="center" src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" height="40" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png" alt="ionic" height="34" width="100" />
+<img align="center" src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" height="40" width="40" />
 </p>
