@@ -41,6 +41,5 @@ a Junior Full-Stack Developer Based on Iran
 <img align="center" src="https://icon-library.com/images/heroku-icon/heroku-icon-6.jpg" alt="heroku" height="40" width="94" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/uikit-3629126-3030266.png" alt="uikit" height="40" width="40" />
 <img align="center" src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" height="40" width="40" />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png" alt="ionic" height="34" width="100" />
 <img align="center" src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" height="40" width="40" />
 </p>
