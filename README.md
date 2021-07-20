@@ -8,8 +8,8 @@ a Junior Full-Stack Developer Based on Iran
 ## Contact Me
 
 <p align="left">
-<a href="https://instagram.com/tahadostifam131" target="blank"><img align="center" src="https://unpkg.com/ionicons@5.5.2/dist/svg/logo-instagram.svg" alt="tahadostifam" height="30" width="40" /></a>
-<a href="https://t.me/maximilian_tepes" target="blank"><img align="center" src="https://unpkg.com/ionicons@5.5.2/dist/svg/send-outline.svg" alt="tahadostifam" height="30" width="40" /></a>
+<a href="https://instagram.com/tahadostifam131" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="tahadostifam" height="30" width="30" /></a>
+<a href="https://t.me/maximilian_tepes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="tahadostifam" height="30" width="30" /></a>
 </p>
 
 ## Language & Tools
