@@ -1,0 +1,55 @@
+{
+    "mini_description": "Full-Stack Developer",
+    "instagram": "tahadostifam131",
+    "whatsapp": "989368392346",
+    "github": "tahadostifam",
+    "about": {
+        "text": "a junior full-stack developer based on iran..."
+    },
+    "education": {
+        "ed": [
+            {
+                "title": "ICDL Certificate",
+                "year": "2018"
+            }
+        ],
+        "skills": [
+            {
+                "title": "Javascript",
+                "percent": "90%"
+            },
+            {
+                "title": "Node.js",
+                "percent": "80%"
+            },
+            {
+                "title": "Vue / Nuxt",
+                "percent": "75%"
+            },
+            {
+                "title": "C#",
+                "percent": "70%"
+            },
+            {
+                "title": "MongoDB, SQL",
+                "percent": "60%"
+            },
+            {
+                "title": "Linux",
+                "percent": "50%"
+            },
+            {
+                "title": "Dart Flutter",
+                "percent": "30%"
+            }
+        ]
+    },
+    "portfolio":{
+      "list": [
+        {
+          "image": "http://picsum.photos/900/500",
+          "des": "devsparkle.ir"
+        }
+      ]
+    }
+}
