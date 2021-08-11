@@ -22,7 +22,6 @@ a Junior Full-Stack Developer Based on Iran
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="javascript" height="40" width="40" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/apache-8-1174973.png" alt="apache" height="40" width="40" />
 <img align="center" src="https://iconape.com/wp-content/png_logo_vector/nginx.png" alt="nginx" height="40" width="40" />
-<img align="center" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" alt="linux" height="40" width="40" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" alt="archlinux" height="40" width="40" />
 <img align="center" src="https://cdn2.iconfinder.com/data/icons/system-flat-buttons/512/debian-512.png" alt="debianlinux" height="40" width="40" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png" alt="postgres" height="40" width="40" />
@@ -41,8 +40,10 @@ a Junior Full-Stack Developer Based on Iran
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/uikit-3629126-3030266.png" alt="uikit" height="40" width="40" />
 <img align="center" src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" height="40" width="40" />
 <img align="center" src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" height="40" width="40" />
+<img align="center" src="https://pngpress.com/wp-content/uploads/2020/04/Redis-Logo-free-png.png" alt="redis" height="37" width="37" />
 </p>
 
 ## My Current Desktop
 ##### EndeavourOS + Kde Plasma Customized To Win11
-![alt text](https://raw.githubusercontent.com/tahadostifam/win11-kde-plasma-screenshots/main/1.png)
+![Endeavour OS Win11](https://raw.githubusercontent.com/tahadostifam/win11-kde-plasma-screenshots/main/1.png)
+
