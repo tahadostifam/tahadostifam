@@ -45,5 +45,5 @@ a Junior Full-Stack Developer Based on Iran
 
 ## My Current Desktop
 ##### EndeavourOS + Kde Plasma Customized To Win11
-![Endeavour OS Win11](https://raw.githubusercontent.com/tahadostifam/win11-kde-plasma-screenshots/main/1.png)
+![Endeavour OS Win11](https://github.com/tahadostifam/win11-kde-plasma-screenshots/raw/main/win11-dark-mode.png)
 
