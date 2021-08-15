@@ -14,7 +14,6 @@ a Junior Full-Stack Developer Based on Iran
 
 ## Language & Tools
 <p align="left">
-<img align="center" src="https://iconape.com/wp-content/png_logo_vector/c-sharp-c-logo.png" alt="c#" height="40" width="36" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/896px-Bash_Logo_black_and_white_icon_only.svg.png" alt="bash" height="42" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css" height="42" width="40" />
 <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" alt="docker" height="42" width="40" />
