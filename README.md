@@ -73,16 +73,36 @@ ForFun: [
 <a href="https://vuetifyjs.com/en/">
     <img align="center" src="https://iconape.com/wp-content/png_logo_vector/vuetify.png" alt="vuetify" height="40" width="40" />
 </a>    
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" height="40" width="40" />
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" alt="sass" height="40" width="40" />
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="typescript" height="40" width="40" />
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-512/coffee-script-3628110-3030930.png" alt="coffeescript" height="40" width="40" />
-<img align="center" src="https://icon-library.com/images/heroku-icon/heroku-icon-6.jpg" alt="heroku" height="40" width="94" />
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-512/uikit-3629126-3030266.png" alt="uikit" height="40" width="40" />
-<img align="center" src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" height="40" width="40" />
-<img align="center" src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" height="40" width="40" />
-<img align="center" src="https://pngpress.com/wp-content/uploads/2020/04/Redis-Logo-free-png.png" alt="redis" height="37" width="37" />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="ruby" height="37" width="37" />
+<a href="https://www.python.org/">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" height="40" width="40" />
+</a>    
+<a href="https://sass-lang.com/">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" alt="sass" height="40" width="40" />
+</a>    
+<a href="https://www.typescriptlang.org/">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="typescript" height="40" width="40" />
+</a>    
+<a href="https://coffeescript.org/">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/coffee-script-3628110-3030930.png" alt="coffeescript" height="40" width="40" />
+</a>    
+<a href="https://www.heroku.com/">
+    <img align="center" src="https://icon-library.com/images/heroku-icon/heroku-icon-6.jpg" alt="heroku" height="40" width="94" />
+</a>    
+<a href="https://getuikit.com/">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/uikit-3629126-3030266.png" alt="uikit" height="40" width="40" />
+</a>    
+<a href="https://getbootstrap.com/">
+    <img align="center" src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" height="40" width="40" />
+</a>   
+<a href="https://dart.dev/">
+    <img align="center" src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" height="40" width="40" />
+</a>   
+<a href="https://redis.io/">
+    <img align="center" src="https://pngpress.com/wp-content/uploads/2020/04/Redis-Logo-free-png.png" alt="redis" height="37" width="37" />
+</a>   
+<a href="https://www.ruby-lang.org/en/">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="ruby" height="37" width="37" />
+</a>   
 </p>
 
 ## My Current Desktop
