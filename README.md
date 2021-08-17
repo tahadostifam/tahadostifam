@@ -1,16 +1,28 @@
 # Hi All 👋 I'm Taha Dostifam
-Full-Stack Web Developer (Vue, Node.js, Python, Dart&Flutter)
+Full-Stack Web Developer
 
 <a href="https://tahadostifam.ir/">tahadostifam.ir</a>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tahadostifam&label=Profile%20views&color=0055ff&style=flat" alt="tahadostifam"/></p>
 
-## Contact Me
+### Languages I Use
+```js
+ForRecruitment: [
+    Nodejs,
+    Vuejs,
+    Python
+]
 
-<p align="left">
-<a href="https://instagram.com/tahadostifam131" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="tahadostifam" height="30" width="30" /></a>
-<a href="https://t.me/maximilian_tepes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="tahadostifam" height="30" width="30" /></a>
-</p>
+ForSpecialty: [
+    Ruby,
+    RubyOnRails
+]
+
+ForFun: [
+    Dart,
+    Flutter
+]
+```
 
 ## Language & Tools
 <p align="left">
