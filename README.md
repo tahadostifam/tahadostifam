@@ -16,7 +16,7 @@ ForRecruitment: [
 ]
 
 ForFun: [
-    Dart&Flutter,
+    Flutter,
 ]
 ```
 
