@@ -106,6 +106,6 @@ ForFun: [
 </p>
 
 ## My Current Desktop
-##### EndeavourOS + Kde Plasma Customized To Win11
-![Endeavour OS Win11](https://github.com/tahadostifam/win11-kde-plasma-screenshots/raw/main/win11-dark-mode.png)
+##### FedoraOS + GnomeDE Customized To macOS
+![fedora gnome like macos](https://raw.githubusercontent.com/tahadostifam/tahadostifam/main/desktop8.png)
 
