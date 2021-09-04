@@ -1,5 +1,7 @@
 # Hi All 🤡 I'm Taha Dostifam
-Full-Stack Web Developer
+Junior Full-Stack Web Developer Based On Iran, Bonab.
+I Learn RubyOnRails
+To Make My Personal Programming Blog!
 
 <a href="http://tahadostifam.github.io">tahadostifam.github.io</a>
 
