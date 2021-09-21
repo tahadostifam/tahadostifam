@@ -15,10 +15,6 @@
         ],
         "skills": [
             {
-                "title": "Javascript",
-                "percent": "90%"
-            },
-            {
                 "title": "Node.js",
                 "percent": "80%"
             },
@@ -27,20 +23,20 @@
                 "percent": "75%"
             },
             {
-                "title": "C#",
-                "percent": "70%"
-            },
-            {
-                "title": "MongoDB, SQL",
+                "title": "PostgreSQL, MongoDB, Redis",
                 "percent": "60%"
             },
             {
-                "title": "Linux",
+                "title": "Ruby / RubyOnRails",
                 "percent": "50%"
             },
             {
+                "title": "Linux",
+                "percent": "40%"
+            },
+            {
                 "title": "Dart / Flutter",
-                "percent": "30%"
+                "percent": "25%"
             }
         ]
     },
