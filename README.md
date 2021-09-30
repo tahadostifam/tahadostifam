@@ -1,8 +1,8 @@
 # Hi All 🤡 I'm Taha Dostifam
-🐉 A great future doesn't require a great past.
-💻 web developer :: ✏️ student
-🏮 otaku :: 🏴 Kung Fu
-🎃 15Yo 🇮🇷 Iran
+🐉 A great future doesn't require a great past.   
+💻 web developer :: ✏️ student   
+🏮 otaku :: 🏴 Kung Fu   
+🎃 15Yo 🇮🇷 Iran   
 
 <a href="http://tahadostifam.github.io">tahadostifam.github.io</a>
 
