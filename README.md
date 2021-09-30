@@ -1,5 +1,8 @@
 # Hi All 🤡 I'm Taha Dostifam
-Junior Full-Stack Web Developer Based On Iran, Bonab.
+🐉 A great future doesn't require a great past.
+💻 web developer :: ✏️ student
+🏮 otaku :: 🏴 Kung Fu
+🎃 15Yo 🇮🇷 Iran
 
 <a href="http://tahadostifam.github.io">tahadostifam.github.io</a>
 
