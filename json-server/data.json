@@ -21,22 +21,14 @@
             {
                 "title": "Vue / Nuxt",
                 "percent": "75%"
-            },
-            {
-                "title": "PostgreSQL, MongoDB, Redis",
-                "percent": "60%"
-            },
+            }
             {
                 "title": "Ruby / RubyOnRails",
                 "percent": "50%"
             },
             {
                 "title": "Linux",
-                "percent": "40%"
-            },
-            {
-                "title": "Dart / Flutter",
-                "percent": "25%"
+                "percent": "30%"
             }
         ]
     },
@@ -44,7 +36,7 @@
       "list": [
         {
           "image": "https://raw.githubusercontent.com/tahadostifam/tahadostifam/main/uploads/dashboard-template-screenshot.png",
-          "des": "dashboard template",
+          "des": "simple dashboard template",
           "url": "https://tahadostifam.github.io/dashboard-template/"
         }
       ]
