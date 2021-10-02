@@ -17,10 +17,6 @@ ForRecruitment: [
     Linux,
     Ruby,
 ]
-
-ForFun: [
-    Flutter,
-]
 ```
 
 ## Languages & Tools Detail
@@ -96,9 +92,6 @@ ForFun: [
 </a>    
 <a href="https://getbootstrap.com/">
     <img align="center" src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" height="40" width="40" />
-</a>   
-<a href="https://dart.dev/">
-    <img align="center" src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" height="40" width="40" />
 </a>   
 <a href="https://redis.io/">
     <img align="center" src="https://pngpress.com/wp-content/uploads/2020/04/Redis-Logo-free-png.png" alt="redis" height="37" width="37" />
