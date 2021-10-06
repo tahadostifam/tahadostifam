@@ -102,6 +102,6 @@ ForRecruitment: [
 </p>
 
 ## My Current Desktop
-##### FedoraOS + GnomeDE Customized To macOS
+##### Manjaro Linux [Xfce]
 ![fedora gnome like macos](https://raw.githubusercontent.com/tahadostifam/skull-zsh/master/screenshot.png)
 
