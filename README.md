@@ -12,8 +12,14 @@
 ```js
 ForRecruitment: [
     Javascript: [
-        Nodejs,
-        Vuejs
+        Nodejs: [
+            Expressjs,
+            Nestjs,
+            Mochajs
+        ],
+        Vuejs: [
+            Nuxtjs
+        ]
     ]
     Python: [
         Django
