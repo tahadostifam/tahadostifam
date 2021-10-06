@@ -11,11 +11,34 @@
 ### Languages I Use
 ```js
 ForRecruitment: [
-    Nodejs,
-    Vuejs,
-    Python,
-    Linux,
-    Ruby,
+    Javascript: [
+        Nodejs,
+        Vuejs
+    ]
+    Python: [
+        Django
+    ]
+    Linux: [
+        Debian: [
+            Ubuntu, 
+            LinuxMint,
+            PopOS,
+            ZorinOS
+        ],
+        RHEL: [
+            CentOS,
+            Fedora
+        ],
+        ArchLinux: [
+            EndeavourOS,
+            Manjaro,
+            ArcoLinux
+        ]
+    ]
+    Ruby: [
+        RubyOnRails,
+        Sinatra
+    ]
 ]
 ```
 
