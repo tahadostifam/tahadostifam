@@ -103,5 +103,5 @@ ForRecruitment: [
 
 ## My Current Desktop
 ##### FedoraOS + GnomeDE Customized To macOS
-![fedora gnome like macos](https://github.com/tahadostifam/tahadostifam/raw/main/desktop9.png)
+![fedora gnome like macos](https://raw.githubusercontent.com/tahadostifam/skull-zsh/master/screenshot.png)
 
