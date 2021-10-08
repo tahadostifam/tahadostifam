@@ -31,9 +31,8 @@ ForRecruitment: [
             PopOS,
             ZorinOS
         ],
-        RHEL: [
-            CentOS,
-            Fedora
+        CentOS: [
+            FedoraOS
         ],
         ArchLinux: [
             EndeavourOS,
