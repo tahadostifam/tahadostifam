@@ -131,5 +131,5 @@ ForRecruitment: [
 
 ## My Current Desktop
 ##### Manjaro Linux [Xfce]
-![fedora gnome like macos](https://raw.githubusercontent.com/tahadostifam/skull-zsh/master/screenshot.png)
+![manjaro linux](https://raw.githubusercontent.com/tahadostifam/tahadostifam/main/desktop10.png)
 
