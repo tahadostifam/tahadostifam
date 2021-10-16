@@ -31,13 +31,9 @@ ForRecruitment: [
             PopOS,
             ZorinOS
         ],
-        CentOS: [
-            FedoraOS
-        ],
         ArchLinux: [
             EndeavourOS,
-            Manjaro,
-            ArcoLinux
+            Manjaro
         ]
     ]
     Ruby: [
