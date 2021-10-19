@@ -20,10 +20,8 @@ ForRecruitment: [
         Vuejs: [
             Nuxtjs
         ]
-    ]
-    Python: [
-        Django
-    ]
+    ],
+    Python: [],
     Linux: [
         Debian: [
             Ubuntu, 
@@ -35,7 +33,7 @@ ForRecruitment: [
             EndeavourOS,
             Manjaro
         ]
-    ]
+    ],
     Ruby: [
         RubyOnRails,
         Sinatra
