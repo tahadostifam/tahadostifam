@@ -21,7 +21,6 @@ ForRecruitment: [
             Nuxtjs
         ]
     ],
-    Python: [],
     Linux: [
         Debian: [
             Ubuntu, 
