@@ -23,7 +23,6 @@ Working On
 Javascript: [
     Nodejs: [
         Expressjs,
-        Nestjs,
         Mochajs
     ],
     Vuejs: [
