@@ -3,7 +3,7 @@
 ### Biography
 
 I’m a web developer. I spend my whole day, practically every day with Nodejs, Vuejs, Ruby & Linux;   
-I build websites that be delight and inform. I do it well.   
+I build websites that be delight and inform and speedy. I do it well.   
 I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction.   
 I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand.    
 
