@@ -12,8 +12,6 @@ I do my best to stay on top of changes in the state of the art so that I can mee
 Working On
 ```js
 [
-    "devsparkle",
-    "devsparkle_new_template",
     "Material-Bootstrap"
 ]
 ```
