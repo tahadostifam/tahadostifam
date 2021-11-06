@@ -47,7 +47,7 @@ Ruby: [
 
 ### My Current Desktop
 ##### Manjaro Linux [Xfce]
-![manjaro linux](https://github.com/tahadostifam/tahadostifam/raw/main/desktop11.png)
+![manjaro linux](https://github.com/tahadostifam/screenfetch/raw/main/desktop10.png)
 
 
 ### Social Media
