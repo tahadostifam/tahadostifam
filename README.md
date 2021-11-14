@@ -9,13 +9,6 @@ I do my best to stay on top of changes in the state of the art so that I can mee
 
 <a href="http://tahadostifam.github.io">tahadostifam.github.io</a>
 
-Working On
-```js
-[
-    "IR-Gituhb"
-]
-```
-
 ### Technologies that i know
 ```js
 Javascript: [
