@@ -39,8 +39,8 @@ Ruby: [
 ```
 
 ### My Current Desktop
-##### Manjaro Linux [Xfce]
-![manjaro linux](https://github.com/tahadostifam/screenfetch/raw/main/desktop10.png)
+##### Manjaro Linux [Gnome]
+![manjaro linux](https://raw.githubusercontent.com/tahadostifam/screenfetch/main/desktop11.png)
 
 
 ### Social Media
