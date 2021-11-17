@@ -23,9 +23,10 @@ Javascript: [
 Linux: [
     Debian: [
         Ubuntu, 
-        LinuxMint,
-        PopOS,
-        ZorinOS
+        LinuxMint
+    ],
+    CentOS: [
+        FedoraOS
     ],
     ArchLinux: [
         EndeavourOS,
