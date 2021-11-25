@@ -40,8 +40,8 @@ Ruby: [
 ```
 
 ### My Current Desktop
-##### Manjaro Linux [Gnome]
-![manjaro linux](https://raw.githubusercontent.com/tahadostifam/screenfetch/main/desktop11.png)
+##### FedoraOS [Gnome DE]
+![FedoraOS Gnome DE Taha Dostifam](https://github.com/tahadostifam/screenfetch/raw/main/desktop12.png)
 
 
 ### Social Media
