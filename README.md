@@ -39,7 +39,7 @@ Ruby: [
 ]
 ```
 
-### My Current Desktop
+### Screenfetch
 ##### FedoraOS [Gnome DE]
 ![FedoraOS Gnome DE Taha Dostifam](https://github.com/tahadostifam/screenfetch/raw/main/desktop12.png)
 
