@@ -1,15 +1,46 @@
 # Hi All 👽 I'm Taha Dostifam
 
 ### Biography
+```ruby 
+full_name = "Taha. Dostifam"
+birthday = "March 24, 2007"
+age = "15y.o"
+country = "Iran Islamic Republic Of"
+phone_number = "+98 936 839 2346"
+```
 
-My name is Taha. i'm 15 y.o and i live in iran. I spend my whole day, practically every day with Ruby & Linux;   
-I build websites that be delight and inform and speedy. I do it well.   
-I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction.   
-I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand.    
+### A piece of speech with you 
+
+You may think that I work very sporadically... But it is not true. Because everyone has their own specialty!   
+I love the programming and I almost don't care what language I work with;   
+Languages are just tools... let me give you an example:   
+
+**Ruby**
+```ruby
+x = 10
+if x > 5
+    puts "x is bigger than 5!"
+else
+    puts "x is smaller than 5!"
+```
+**Javascript**
+```javascript
+const x = 10;
+if (x > 5){
+    console.log("x is bigger than 5!")
+}
+else{
+    console.log("x is smaller than 5!")
+}
+```
+
+They both do the same thing, don't they? As a result, it does not matter to me how many programming languages you work with and how scattered you work.
+The result is important to me!
+And it means the result of a service that a programmer can do to his nation :)
 
 <a href="http://tahadostifam.github.io">tahadostifam.github.io</a>
 
-### Technologies That I Know
+### I Work With
 ```js
 Javascript: [
     Nodejs: [
