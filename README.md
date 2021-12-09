@@ -36,7 +36,8 @@ Linux: [
 Ruby: [
     RubyOnRails,
     Sinatra
-]
+],
+C/C++
 ```
 
 ### Screenfetch
