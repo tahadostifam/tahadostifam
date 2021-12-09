@@ -67,7 +67,9 @@ Ruby: [
     RubyOnRails,
     Sinatra
 ],
-C/C++
+C: [
+    C++
+]
 ```
 
 ### Screenfetch
