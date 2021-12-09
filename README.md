@@ -2,7 +2,6 @@
 
 ### Biography
 ```ruby 
-full_name = "Taha. Dostifam"
 birthday = "March 24, 2007"
 age = "15y.o"
 country = "Iran Islamic Republic Of"
