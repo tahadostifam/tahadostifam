@@ -21,6 +21,7 @@ if x > 5
     puts "x is bigger than 5!"
 else
     puts "x is smaller than 5!"
+end
 ```
 **Javascript**
 ```javascript
