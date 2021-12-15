@@ -67,9 +67,6 @@ Linux: [
 Ruby: [
     RubyOnRails,
     Sinatra
-],
-C: [
-    C++
 ]
 ```
 
