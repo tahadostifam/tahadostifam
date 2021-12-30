@@ -6,6 +6,19 @@ birthday = "March 24, 2007"
 age = "15y.o"
 country = "Iran Islamic Republic Of"
 phone_number = "+98 936 839 2346"
+other_activities = {
+    sport: [
+        "Ping Pong",
+        "Kung Fu"
+    ],
+    hobby: {
+        "Anime": [
+            "One Piece",
+            "Naruto, Boruto",
+            "Bleach"
+        ]
+    }
+}
 ```
 
 <a href="http://tahadostifam.github.io">tahadostifam.github.io</a>
