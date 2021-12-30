@@ -67,8 +67,8 @@ phone_number = "+98 936 839 2346"
 </a>
 
 ### Screenfetch
-##### FedoraOS [Gnome DE]
-![FedoraOS Gnome DE Taha Dostifam](https://github.com/tahadostifam/screenfetch/raw/main/desktop12.png)
+##### OpenSuse Linux, DE: Xfce4
+![OpenSuse Linux, DE: Xfce4](https://github.com/tahadostifam/screenfetch/raw/main/desktop14.png)
 
 
 ### Social Media
