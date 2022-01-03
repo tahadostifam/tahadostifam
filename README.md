@@ -81,7 +81,7 @@ other_activities = {
 
 ### Screenfetch
 ##### OpenSuse Linux, DE: Xfce4
-![OpenSuse Linux, DE: Xfce4](https://github.com/tahadostifam/screenfetch/raw/main/desktop14.png)
+![OpenSuse Linux, DE: Xfce4](https://github.com/tahadostifam/screenfetch/raw/main/desktop15.png)
 
 
 ### Social Media
