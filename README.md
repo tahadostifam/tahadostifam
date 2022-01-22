@@ -33,9 +33,12 @@ other_activities = {
 <a href="https://vuejs.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" with="40" height="40"/>
 </a>
+</a>
 <a href="https://nuxtjs.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png" with="40" height="40"/>
 </a>
+<a href="https://angular.io/">
+    <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" with="40" height="40"/>
 <a href="https://nodejs.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" with="40" height="40"/>
 </a>
