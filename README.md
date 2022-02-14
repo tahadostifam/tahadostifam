@@ -3,9 +3,8 @@
 ## Bio
 Bio text comming soon
 
-## Tchnologies i use  
-<img src="./images/ts.png" width="190"/>
-<img src="./images/nodejs.png" width="190"/>
+## Tchnologies i use
+<img src="./images/ts.png" width="190"/> <img src="./images/nodejs.png" width="190"/>
 <img src="./images/mochajs.png" width="190"/>
 <img src="./images/vue.png" width="190"/>
 <img src="./images/nuxt.png" width="190"/>
