@@ -8,7 +8,6 @@ Bio text comming soon
 <img src="./images/mochajs.png" width="190"/>
 <img src="./images/vue.png" width="190"/>
 <img src="./images/nuxt.png" width="190"/>
-<img src="./images/angular.png" width="190"/>
 <img src="./images/ruby.png" width="190"/>
 <img src="./images/rails.png" width="190"/>
 <img src="./images/c.png" width="190"/>
