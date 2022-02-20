@@ -14,8 +14,6 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <img src="./images/ruby.png" width="190"/>
 <img src="./images/rails.png" width="190"/>
 <img src="./images/angular.png" width="190"/>
-<img src="./images/c.png" width="190"/>
-<img src="./images/cpp.png" width="190"/>
 <img src="./images/suse.png" width="190"/>
 <img src="./images/debian.png" width="190"/>
 <img src="./images/postgres.png" width="190"/>
@@ -33,8 +31,7 @@ openSUSE Linux, DE: Xfce
 
 ## My Roadmap for this year
 * Taking LPIC-1 Certification
-* Taking C# Certification
+* Taking C# Certification [just for fun :|]
 * Learning Angular
 * Learning Crystal-Lang
-* Practicing C, C++
 * Teaching Ruby at instagram
