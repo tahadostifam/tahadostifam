@@ -46,6 +46,9 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://git-scm.com/">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" with="40" height="40"/>
 </a>
+<a href="https://git-scm.com/">
+    <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" with="40" height="40"/>
+</a>
 <a href="https://nginx.com/">
     <img src="https://cdn.iconscout.com/icon/free/png-256/nginx-3521604-2945048.png" with="40" height="40"/>
 </a>
