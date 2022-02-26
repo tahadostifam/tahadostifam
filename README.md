@@ -71,7 +71,10 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://mongodb.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" with="40" height="40"/>
 </a>
-  
+<a href="https://redis.io/">
+    <img src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" with="40" height="40"/>
+</a>
+
 ### My Desktop
 ![open suse linux](https://raw.githubusercontent.com/tahadostifam/screenfetch/main/desktop16.png)
 
