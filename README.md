@@ -29,8 +29,11 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://mochajs.org/">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/mocha-1-logo-png-transparent.png" with="40" height="40"/>
 </a>
-<a href="https://mochajs.org/">
+<a href="https://graphql.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" with="40" height="40"/>
+</a>
+<a href="https://go.dev">
+    <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" with="40" height="40"/>
 </a>
 <a href="https://rubylang.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" with="40" height="40"/>
