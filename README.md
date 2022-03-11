@@ -35,6 +35,9 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://go.dev">
     <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" with="40" height="40"/>
 </a>
+<a href="https://github.com/gin-gonic/gin">
+    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" with="40" height="40"/>
+</a>
 <a href="https://rubylang.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" with="40" height="40"/>
 </a>
@@ -53,14 +56,20 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://git-scm.com/">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" with="40" height="40"/>
 </a>
-<a href="https://git-scm.com/">
+<a href="https://www.docker.com/">
     <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" with="40" height="40"/>
+</a>
+<a href="https://kubernetes.io/">
+    <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" with="40" height="40"/>
 </a>
 <a href="https://nginx.com/">
     <img src="https://cdn.iconscout.com/icon/free/png-256/nginx-3521604-2945048.png" with="40" height="40"/>
 </a>
 <a href="https://apache.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png" with="40" height="40"/>
+</a>
+<a href="https://kafka.apache.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1261px-Apache_kafka.svg.png" with="40" height="40"/>
 </a>
 <a href="https://mysql.com/">
     <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" with="40" height="40"/>
@@ -71,11 +80,17 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://www.mariadb.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" with="40" height="40"/>
 </a>
+<a href="https://www.cockroachlabs.com">
+    <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" with="40" height="40"/>
+</a>
 <a href="https://mongodb.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" with="40" height="40"/>
 </a>
 <a href="https://redis.io/">
     <img src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" with="40" height="40"/>
+</a>
+<a href="https://www.heroku.com/">
+    <img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/heroku-logo.jpg" alt="skype" height="40" width="40" />
 </a>
 
 ### My Desktop
