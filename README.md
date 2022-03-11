@@ -71,6 +71,9 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://kafka.apache.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1261px-Apache_kafka.svg.png" with="40" height="40"/>
 </a>
+<a href="https://www.cloudflare.com/">
+    <img src="https://cdn.worldvectorlogo.com/logos/cloudflare.svg" with="40" height="40"/>
+</a>
 <a href="https://mysql.com/">
     <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" with="40" height="40"/>
 </a>
