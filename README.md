@@ -88,7 +88,7 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 ![open suse linux](https://github.com/tahadostifam/screenfetch/raw/main/desktop18.png)
 
 ## Social Media  
-<a href="https://instagram.com/tahadostifam131">
+<a href="https://instagram.com/learn_golang_with_taha">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" alt="instagram" height="40" width="40" />
 </a>
 <a href="https://wa.me/989368392346">
