@@ -80,7 +80,7 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://redis.io/">
     <img src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" with="40" height="40"/>
 </a>
-<a href="https://www.heroku.com/">
+<a href="https://www.heroku.com">
     <img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/heroku-logo.jpg" alt="skype" height="40" width="40" />
 </a>
 
