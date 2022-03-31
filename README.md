@@ -38,14 +38,17 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://github.com/gin-gonic/gin">
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" with="40" height="40"/>
 </a>
-<a href="https://rubylang.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" with="40" height="40"/>
-</a>
 <a href="https://rubyonrails.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" with="40" height="40"/>
 </a>
 <a href="https://crystal-lang.org/">
-    <img src="https://crystal-lang.org/assets/media/crystal_icon.svg" with="40" height="40"/>
+    <img src="https://crystal-lang.org/assets/media/crystal_icon.svg" with="45" height="45"/>
+</a>
+<a href="https://www.djangoproject.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" with="40" height="40"/>
+</a>
+<a href="https://rubyonrails.org/">
+    <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" with="40" height="40"/>
 </a>
 <a href="https://en.opensuse.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OpenSUSE_Logo.svg/2560px-OpenSUSE_Logo.svg.png" with="40" height="40"/>
@@ -60,7 +63,7 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
     <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" with="40" height="40"/>
 </a>
 <a href="https://www.heroku.com">
-    <img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/heroku-logo.jpg" alt="skype" height="40" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" alt="skype" height="40"  />
 </a>
 <a href="https://www.cloudflare.com/">
     <img src="https://upload.wikimedia.org/wikipedia/de/thumb/a/a2/Cloudflare_logo.svg/2000px-Cloudflare_logo.svg.png?20191103065703" alt="skype" height="40"  />
