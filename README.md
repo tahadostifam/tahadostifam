@@ -56,6 +56,15 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://git-scm.com/">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" with="40" height="40"/>
 </a>
+<a href="https://www.netlify.com/">
+    <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" with="40" height="40"/>
+</a>
+<a href="https://www.heroku.com">
+    <img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/heroku-logo.jpg" alt="skype" height="40" width="40" />
+</a>
+<a href="https://www.cloudflare.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/de/thumb/a/a2/Cloudflare_logo.svg/2000px-Cloudflare_logo.svg.png?20191103065703" alt="skype" height="40"  />
+</a>
 <a href="https://www.docker.com/">
     <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" with="40" height="40"/>
 </a>
@@ -79,9 +88,6 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 </a>
 <a href="https://redis.io/">
     <img src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" with="40" height="40"/>
-</a>
-<a href="https://www.heroku.com">
-    <img src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/heroku-logo.jpg" alt="skype" height="40" width="40" />
 </a>
 
 ### My Desktop
