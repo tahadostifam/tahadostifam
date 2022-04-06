@@ -44,6 +44,9 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://crystal-lang.org/">
     <img src="https://crystal-lang.org/assets/media/crystal_icon.svg" with="45" height="45"/>
 </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" with="45" height="45"/>
+</a>
 <a href="https://www.djangoproject.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" with="40" height="40"/>
 </a>
