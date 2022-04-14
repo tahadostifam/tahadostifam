@@ -39,19 +39,16 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" with="40" height="40"/>
 </a>
 <a href="https://rubyonrails.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" with="40" height="40"/>
+</a>
+<a href="https://rubyonrails.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" with="40" height="40"/>
 </a>
 <a href="https://crystal-lang.org/">
     <img src="https://crystal-lang.org/assets/media/crystal_icon.svg" with="45" height="45"/>
 </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" with="45" height="45"/>
-</a>
-<a href="https://www.djangoproject.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" with="40" height="40"/>
-</a>
-<a href="https://rubyonrails.org/">
-    <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" with="40" height="40"/>
+<a href="https://www.programiz.com/c-programming#:~:text=C%20is%20a%20powerful%20general,learn%20to%20program%20for%20beginners">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" with="45" height="45"/>
 </a>
 <a href="https://en.opensuse.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OpenSUSE_Logo.svg/2560px-OpenSUSE_Logo.svg.png" with="40" height="40"/>
