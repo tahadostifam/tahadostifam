@@ -47,9 +47,6 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://crystal-lang.org/">
     <img src="https://crystal-lang.org/assets/media/crystal_icon.svg" with="45" height="45"/>
 </a>
-<a href="https://www.programiz.com/c-programming#:~:text=C%20is%20a%20powerful%20general,learn%20to%20program%20for%20beginners">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" with="45" height="45"/>
-</a>
 <a href="https://en.opensuse.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OpenSUSE_Logo.svg/2560px-OpenSUSE_Logo.svg.png" with="40" height="40"/>
 </a>
