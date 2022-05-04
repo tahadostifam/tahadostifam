@@ -44,9 +44,6 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://rubyonrails.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" with="40" height="40"/>
 </a>
-<a href="https://crystal-lang.org/">
-    <img src="https://crystal-lang.org/assets/media/crystal_icon.svg" with="45" height="45"/>
-</a>
 <a href="https://en.opensuse.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OpenSUSE_Logo.svg/2560px-OpenSUSE_Logo.svg.png" with="40" height="40"/>
 </a>
