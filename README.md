@@ -20,9 +20,6 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://nuxtjs.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png" with="40" height="40"/>
 </a>
-<a href="https://reactjs.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" with="40" height="40"/>
-</a>
 <a href="https://graphql.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" with="40" height="40"/>
 </a>
