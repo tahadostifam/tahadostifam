@@ -13,6 +13,9 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://www.typescriptlang.org/">
     <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" with="40" height="40"/>
 </a>
+<a href="https://eslint.org/">
+    <img src="https://eslint.org/assets/img/favicon.512x512.png" with="40" height="40"/>
+</a>
 <a href="https://vuejs.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" with="40" height="40"/>
 </a>
@@ -35,11 +38,14 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://github.com/gin-gonic/gin">
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" with="40" height="40"/>
 </a>
-<a href="https://rubyonrails.org/">
+<a href="https://ruby-lang.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" with="40" height="40"/>
 </a>
 <a href="https://rubyonrails.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" with="40" height="40"/>
+</a>
+<a href="">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" with="40" height="40"/>
 </a>
 <a href="https://en.opensuse.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OpenSUSE_Logo.svg/2560px-OpenSUSE_Logo.svg.png" with="40" height="40"/>
@@ -82,6 +88,9 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 </a>
 <a href="https://redis.io/">
     <img src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" with="40" height="40"/>
+</a>
+<a href="https://sass-lang.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" with="40" height="40"/>
 </a>
 
 ### My Desktop
