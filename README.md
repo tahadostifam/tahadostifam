@@ -50,6 +50,9 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://en.opensuse.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OpenSUSE_Logo.svg/2560px-OpenSUSE_Logo.svg.png" with="40" height="40"/>
 </a>
+<a href="https://manjaro.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/2048px-Manjaro-logo.svg.png" with="40" height="40"/>
+</a>
 <a href="https://www.gnu.org/software/bash/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" with="40" height="40"/>
 </a>
