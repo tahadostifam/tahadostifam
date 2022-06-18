@@ -98,9 +98,10 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 
 ### My Desktop
 ![open suse linux](https://raw.githubusercontent.com/tahadostifam/screenfetch/main/desktop19.png)
+[See more](https://github.com/tahadostifam/screenfetch)
 
 ## Social Media  
-<a href="https://instagram.com/learn_golang_with_taha">
+<a href="https://instagram.com/tahadostifam131">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" alt="instagram" height="40" width="40" />
 </a>
 <a href="https://wa.me/989368392346">
