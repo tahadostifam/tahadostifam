@@ -16,6 +16,9 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://eslint.org/">
     <img src="https://eslint.org/assets/img/favicon.512x512.png" with="40" height="40"/>
 </a>
+<a href="https://sass-lang.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" with="40" height="40"/>
+</a>
 <a href="https://vuejs.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" with="40" height="40"/>
 </a>
@@ -32,6 +35,9 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://getuikit.com/">
     <img src="https://seeklogo.com/images/U/uikit-logo-8CE34FE030-seeklogo.com.png" with="40" height="40"/>
 </a>
+<a href="https://www.gethalfmoon.com/">
+    <img src="https://www.gethalfmoon.com/static/halfmoon/img/hm-logo-white.svg" height="35"/>
+</a>
 <a href="https://graphql.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" with="40" height="40"/>
 </a>
@@ -47,14 +53,17 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://github.com/gin-gonic/gin">
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" with="40" height="40"/>
 </a>
+<a href="https://gofiber.io/">
+    <img src="https://gofiber.io/assets/images/logo.svg" with="40" height="40"/>
+</a>
+<a href="">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" with="40" height="40"/>
+</a>
 <a href="https://ruby-lang.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" with="40" height="40"/>
 </a>
 <a href="https://rubyonrails.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" with="40" height="40"/>
-</a>
-<a href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" with="40" height="40"/>
 </a>
 <a href="https://en.opensuse.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OpenSUSE_Logo.svg/2560px-OpenSUSE_Logo.svg.png" with="40" height="40"/>
@@ -80,6 +89,12 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://www.docker.com/">
     <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" with="40" height="40"/>
 </a>
+<a href="https://www.jenkins.io/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" with="40" height="40"/>
+</a>
+<a href="https://www.selenium.dev/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" with="40" height="40"/>
+</a>
 <a href="https://nginx.com/">
     <img src="https://cdn.iconscout.com/icon/free/png-256/nginx-3521604-2945048.png" with="40" height="40"/>
 </a>
@@ -101,8 +116,8 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 <a href="https://redis.io/">
     <img src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" with="40" height="40"/>
 </a>
-<a href="https://sass-lang.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" with="40" height="40"/>
+<a href="https://www.postman.com/">
+    <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" with="40" height="40"/>
 </a>
 
 ### My Desktop
