@@ -14,7 +14,7 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
     <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" with="40" height="40"/>
 </a>
 <a href="https://eslint.org/">
-    <img src="https://eslint.org/assets/img/favicon.512x512.png" with="40" height="40"/>
+    <img src="https://eslint.org/icon-512.png" with="40" height="40"/>
 </a>
 <a href="https://sass-lang.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" with="40" height="40"/>
@@ -31,6 +31,9 @@ I do my best to stay on top of changes in the state of the **Art**. so that I ca
 </a>
 <a href="https://webpack.js.org/">
     <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" with="40" height="40"/>
+</a>
+<a href="https://reactjs.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" with="40" height="40"/>
 </a>
 <a href="https://getuikit.com/">
     <img src="https://seeklogo.com/images/U/uikit-logo-8CE34FE030-seeklogo.com.png" with="40" height="40"/>
