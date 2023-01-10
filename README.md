@@ -6,7 +6,7 @@ im curious, and i enjoy work that challenges me to learn something new and stret
 i do my best to stay on top of changes in the state of the art. so that i can meet challenges with **tools** well suited to the job at hand.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,ts,nodejs,express,jest,cpp,cmake,linux,docker,nginx,bash,git,github,gitlab,postgres,sqlite,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,ts,react,nodejs,express,jest,cpp,cmake,linux,docker,nginx,bash,git,github,gitlab,postgres,sqlite,mongodb,redis)](https://skillicons.dev)
 
 ### My Desktop
 ![](https://raw.githubusercontent.com/tahadostifam/screenfetch/main/desktop20.png)
