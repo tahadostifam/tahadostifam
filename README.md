@@ -1,4 +1,4 @@
-<h1 align="center">🦩 Hi All, Im TaHa Dostifam ⚡️</h1>
+<h1 align="center">⚡️ Hi All, Im TaHa Dostifam ⚡️</h1>
 
 ### Bio
 My name is **Taha**. im **15y.o** and i live in [**Iran**](https://en.wikipedia.org/wiki/Iran). i spend my whole day, practically every day with **coding**.
