@@ -12,7 +12,7 @@ In addition to programming, I enjoy watching to anime, and spending time with re
 Overall, I'm passionate about software engineering and excited to see where my skills and knowledge will take me in the future.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,py,ruby,rails,linux,docker,nginx,bash,git,github,gitlab,postgres,sqlite,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,golang,ruby,rails,linux,docker,nginx,bash,git,github,gitlab,postgres,sqlite,mongodb,redis)](https://skillicons.dev)
 
 ### My Desktop
 ![](https://raw.githubusercontent.com/tahadostifam/screenfetch/main/desktop20.png)
