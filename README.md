@@ -17,17 +17,10 @@ Currently, I'm pouring my energy into building a chat-application called [**Kavk
 ## Customized Desktops
 Click on each image to get original image.
 
-<div style="display: flex; flex-direction: row;">
-    <a style="width='32%'" href="https://github.com/tahadostifam/screenfetch/blob/main/desktop19.png">
-        <img src="./images/desktop1.png" />
-    </a>
-    <a style="width='32%'; margin: 0 10px" href="https://github.com/tahadostifam/screenfetch/blob/main/desktop2.jpg">
-        <img src="./images/desktop2.png" />
-    </a>
-    <a style="width='32%'" href="https://github.com/tahadostifam/screenfetch/blob/main/desktop5.jpg">
-        <img src="./images/desktop3.png" />
-    </a>
-</div>        
+
+| OpenSuse Tumbleweed                 | Linux Mint                          | Ubuntu                                      |
+| ----------------------------------- | ----------------------------------- | ------------------------------------------- |
+| ![1](./images/desktop1.png)         | ![2](./images/desktop2.png)         | ![3](./images/desktop3.png)                 |
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tahadostifam&theme=github-compact&hide_border=false&area=true)
