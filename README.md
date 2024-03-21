@@ -27,7 +27,12 @@ Click on each image to get original image.
     <a style="width='32%'" href="https://github.com/tahadostifam/screenfetch/blob/main/desktop5.jpg">
         <img src="./images/desktop3.png" />
     </a>
-</div>            |
+</div>        
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tahadostifam&theme=github-compact&hide_border=false&area=true)
+
+## Contact with me on
+- [X (Twitter🤦)](https://twitter.com/taha__dev)
+- [Instagram](https://instagram.com/taha_dostifam)
+- [Telegram](https://t.me/tahadostifam)
