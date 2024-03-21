@@ -15,7 +15,7 @@ Currently, I'm pouring my energy into building a chat-application called [**Kavk
 ![banner2](./images/banner_3.png)
 
 ## Customized Desktops
-Click on each image to get original image.
+[Click here to see more.](https://github.com/tahadostifam/screenfetch)
 
 
 | OpenSuse Tumbleweed                 | Linux Mint                          | Ubuntu                                      |
