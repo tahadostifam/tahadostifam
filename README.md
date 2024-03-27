@@ -17,6 +17,7 @@ Currently, I'm pouring my energy into building a chat-application called [**Kavk
 ## Customized Desktops
 [Click here to see more.](https://github.com/tahadostifam/screenfetch)
 
+![](https://github.com/tahadostifam/screenfetch/blob/main/desktop21.png)
 
 | OpenSuse Tumbleweed                 | Linux Mint                          | Ubuntu                                      |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
