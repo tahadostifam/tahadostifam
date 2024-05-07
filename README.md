@@ -14,15 +14,6 @@ Currently, I'm pouring my energy into building a chat-application called [**Kavk
 ![banner1](./images/banner_2.png)
 ![banner2](./images/banner_3.png)
 
-## Customized Desktops
-[Click here to see more.](https://github.com/tahadostifam/screenfetch)
-
-![](https://github.com/tahadostifam/screenfetch/blob/main/desktop21.png)
-
-| OpenSuse Tumbleweed                 | Linux Mint                          | Ubuntu                                      |
-| ----------------------------------- | ----------------------------------- | ------------------------------------------- |
-| ![1](./images/desktop1.png)         | ![2](./images/desktop2.png)         | ![3](./images/desktop3.png)                 |
-
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tahadostifam&theme=github-compact&hide_border=false&area=true)
 
