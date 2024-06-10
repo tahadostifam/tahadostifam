@@ -18,6 +18,6 @@ Currently, I'm pouring my energy into building a chat-application called [**Kavk
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tahadostifam&theme=github-compact&hide_border=false&area=true)
 
 ## Contact with me on
-- [X (Twitter🤦)](https://twitter.com/taha__dev)
+- [Mastodon](https://mastodon.social/@tahadostifam)
 - [Instagram](https://instagram.com/taha_dostifam)
 - [Telegram](https://t.me/tahadostifam)
