@@ -14,10 +14,10 @@ Currently, I'm pouring my energy into building a chat-application called [**Kavk
 ![banner1](./images/banner_2.png)
 ![banner2](./images/banner_3.png)
 
-
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tahadostifam&theme=github-compact&hide_border=false&area=true)
 
 ## Contact with me on
+
 - [Mastodon](https://mastodon.social/@tahadostifam)
 - [Instagram](https://instagram.com/taha_dostifam)
 - [Telegram](https://t.me/tahadostifam)
