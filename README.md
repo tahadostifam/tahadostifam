@@ -2,12 +2,13 @@
 
 ### Hi there
 
-I'm **Taha Dostifam**, a 17-year-old software engineer based in Iran.
-While I might not be old enough to drive, I've been coding for almost 8 years now! My passion for programming started early, and it's been an incredible journey of building, creating, and solving problems with code.
+I’m Taha, an 18-year-old software engineer with a passion for back-end development and crafting efficient, scalable software solutions. I thrive on solving complex problems and am deeply fascinated by software architecture, compiler design, and programming language implementation. These areas allow me to explore the intricacies of how systems and languages are built, and I’m always eager to dive deeper into the theoretical and practical aspects of software engineering.
 
-When I'm not coding, you might find me lost in the world of music, or tinkering with Linux desktops, customizing them to my perfect workflow. But my technical interests take a more serious turn when it comes to software architecture and networks. I'm a firm believer in **clean code** practices, taking inspiration from the works of Uncle Bob (Robert C. Martin).
+When I’m not immersed in coding, you’ll likely find me exploring the vast world of music or customizing my Linux environment, particularly tinkering with window managers to create the perfect workflow. I’m a strong advocate for Free and Open Source Software (FOSS) and actively contribute to open-source projects, believing in the power of collaboration and community-driven innovation.
 
-Currently, I'm pouring my energy into building a chat-application called [**Kavka**](https://github.com/kavkaco). It's an exciting project that allows me to combine my love for coding with the challenge of creating a user-friendly and efficient communication tool.
+Driven by curiosity and a love for learning, I’m constantly seeking new challenges and opportunities to grow as a developer and contribute to the ever-evolving tech landscape.   
+
+Let’s connect and build something amazing together! 🤌🏿❤️
 
 ## Tech Stack
 
