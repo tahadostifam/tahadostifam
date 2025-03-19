@@ -6,7 +6,7 @@ I’m Taha, an 18-year-old software engineer with a passion for back-end develop
 
 When I’m not immersed in coding, you’ll likely find me exploring the vast world of music or customizing my Linux environment, particularly tinkering with window managers to create the perfect workflow. I’m a strong advocate for Free and Open Source Software (FOSS) and actively contribute to open-source projects, believing in the power of collaboration and community-driven innovation.
 
-Driven by curiosity and a love for learning, I’m constantly seeking new challenges and opportunities to grow as a developer and contribute to the ever-evolving tech landscape.   
+Driven by curiosity and a love for learning, I’m constantly seeking new challenges and opportunities to grow as a developer and contribute to the ever-evolving tech landscape.
 
 Let’s connect and build something amazing together! 🤌🏿❤️
 
@@ -18,5 +18,3 @@ Let’s connect and build something amazing together! 🤌🏿❤️
 ## My Workspace
 
 ![screenshot](./images/screenshot.png)
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=tahadostifam&theme=github-compact&hide_border=false&area=true)
