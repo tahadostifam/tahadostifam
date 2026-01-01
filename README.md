@@ -2,13 +2,22 @@
 
 ### Hi there
 
-I’m Taha, an 18-year-old software engineer with a passion for back-end development and crafting efficient, scalable software solutions. I thrive on solving complex problems and am deeply fascinated by software architecture, compiler design, and programming language implementation. These areas allow me to explore the intricacies of how systems and languages are built, and I’m always eager to dive deeper into the theoretical and practical aspects of software engineering.
+Hi, I’m Taha. An 18-year-old software engineer focused on back-end systems, compilers, and low-level software design. I care deeply about performance, clarity, and correctness, and I enjoy building systems that stay simple even under pressure.
 
-When I’m not immersed in coding, you’ll likely find me exploring the vast world of music or customizing my Linux environment, particularly tinkering with window managers to create the perfect workflow. I’m a strong advocate for Free and Open Source Software (FOSS) and actively contribute to open-source projects, believing in the power of collaboration and community-driven innovation.
+### 🚀 Projects & Work
 
-Driven by curiosity and a love for learning, I’m constantly seeking new challenges and opportunities to grow as a developer and contribute to the ever-evolving tech landscape.
+- **Cyrus: Systems Programming Language** (Creator): A mid-level, imperative systems programming language designed for developers who want modern power without modern complexity.
+Cyrus emphasizes explicit control, a lightweight memory model, zero runtime dependency, and a clean syntax. If you’re comfortable with C or Go, Cyrus will feel familiar — just more disciplined and elegant.
 
-Let’s connect and build something amazing together! 🤌🏿❤️
+- **Geek Engineers Programming Community** (Founder): A community for engineers who take software seriously. We share extremist-level software engineering guidance through our website and Telegram channel, focusing on open source, deep technical understanding, and recreational programming.
+
+- **Kavka Open Source Messenger** (Creator): A secure, privacy-focused messaging platform written in Go. Built using Clean Architecture principles, Kavka provides a scalable and maintainable foundation for private chat systems and secure collaboration tools.
+
+### 🧠 Interests
+
+My main interests include compiler design, programming language implementation, software architecture, and system-level performance engineering. I'm a strong believer in Free and Open Source Software and actively contribute to projects that value transparency and long-term maintainability.
+
+I'm driven by curiosity, allergic to unnecessary abstraction, and always looking to build systems that age well.
 
 ## Tech Stack
 
