@@ -2,7 +2,7 @@
 
 ### Hi there
 
-Hi, I’m Taha. An 19-year-old software engineer focused on back-end systems, compilers, and low-level software design. I care deeply about performance, clarity, and correctness, and I enjoy building systems that stay simple even under pressure.
+Hi, I’m Taha. A 19-year-old software engineer focused on back-end systems, compilers, and low-level software design. I care deeply about performance, clarity, and correctness, and I enjoy building systems that stay simple even under pressure.
 
 ### 🚀 Projects & Work
 
