@@ -6,7 +6,7 @@ Hi, I’m Taha. A 19-year-old software engineer focused on back-end systems, com
 
 ### 🚀 Projects & Work
 
-- [**Cyrus: Systems Programming Language**](https://cyrus-lang.ir/en) (Creator): A systems programming language designed for simplicity, high performance, and low cognitive overhead, reducing long-term maintenance costs while keeping full control in the hands of the developer.
+- [**Cyrus: Systems Programming Language**](https://cyrus-lang.ir/en) (Creator): Cyrus is a high-performance systems programming language with explicit syntax and semantics, minimal abstraction and runtime, and manual memory management.
 
 - [**Geek Engineers Programming Community**](https://geekengineers.netlify.app) (Founder): A community for engineers who take software seriously. We share extremist-level software engineering guidance through our website and Telegram channel, focusing on open source, deep technical understanding, and recreational programming.
 
